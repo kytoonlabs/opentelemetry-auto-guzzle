@@ -1,5 +1,5 @@
 {
-  "name": "open-telemetry/opentelemetry-auto-guzzle",
+  "name": "kytoonlabs/opentelemetry-auto-guzzle",
   "description": "OpenTelemetry auto-instrumentation for Guzzle.",
   "keywords": ["opentelemetry", "otel", "open-telemetry", "tracing", "guzzle", "instrumentation"],
   "type": "library",
